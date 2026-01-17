@@ -1,2 +1,3 @@
 # Kirby-Space-Program
-The Kirby Space Program project for CSCI 375
+
+The Kirby Space Program team's project for CSCI 375
